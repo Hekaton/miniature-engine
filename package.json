@@ -1,0 +1,15 @@
+{
+  "name": "miniature-engine",
+  "version": "0.0.1",
+  "description": "",
+  "author": [
+    "Dmitri Kolytchev <kolytchev.d@gmail.com>",
+    "Maxime St-Pierre <>"
+  ],
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "https": "^1.0.0"
+  }
+}
