@@ -4,7 +4,7 @@
   "description": "",
   "author": [
     "Dmitri Kolytchev <kolytchev.d@gmail.com>",
-    "Maxime St-Pierre <maxime.st-pierre.3@ens.etsmtl.ca>"
+    "Maxime St-Pierre <maxime@hekaton.studio>"
   ],
   "main": "app.js",
   "dependencies": {
